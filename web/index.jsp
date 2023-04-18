@@ -8,10 +8,10 @@
     </head>
     <body>
         <form style="padding-left:15%;" action="index1.jsp">
-        <button type="button " value="jsp" onclick=window.location.href='index1.jsp'>JSP</button>  
+        <button type="submit " value="jsp">JSP</button>  
         </form>
         <form style="padding-left:15%;" action="swing.jsp">
-            <button type="button " value="swing" onclick=window.location.href='swing.jsp'>SWING</button>
+            <button type="submit" value="swing">SWING</button>
         </form>
     </body>
 </html>
