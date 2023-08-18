@@ -1,6 +1,6 @@
 # JSP_SWING
 
-This is Combined version of [JSP Project]((https://github.com/unofficialmohit/JSP_Project) and [Swing Project](https://github.com/unofficialmohit/JavaSwingProject-Drag_Drop) Given to us by our teacher, in this we are giving user choice whethere he want 
+This is Combined version of [JSP Project](https://github.com/unofficialmohit/JSP_Project) and [Swing Project](https://github.com/unofficialmohit/JavaSwingProject-Drag_Drop) Given to us by our teacher, in this we are giving user choice whethere he want 
 
 to use JSP or Swing 
 
